@@ -1,0 +1,25 @@
+.i{
+    color: teal;
+}
+
+.collapse ul li a.active{
+    background-color: #119292;
+}
+.collapse ul li a{
+    color: #fff ! important;
+    padding: 15px
+}
+.lead{
+    font-size: 12px!important; 
+    margin-top: 5%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#5ecbd5;
+    color: white;
+    text-align: center;
+ }
